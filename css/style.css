@@ -5,3 +5,13 @@
 footer {
     height: 200px;
 }
+
+/* background Image for Jumbotron */
+
+.bg-image {
+    min-height: 350px;
+    background-image: linear-gradient(180deg,rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)), url(../img/mountains2.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
